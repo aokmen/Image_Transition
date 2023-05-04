@@ -13,7 +13,7 @@ body{
     background-position: center center;
     background-size: cover;
     
-    /* height: 100vh; */
+    height: 100vh;
     /* transition: background 2s linear; */
     transition: background 2s ease-in-out;
 }
@@ -34,7 +34,7 @@ h2{
 }
 .footer{
     margin: auto;
-    margin-top: 400px;
+    margin-top: 300px;
   
     /* margin: auto; */
     width: 500px;
